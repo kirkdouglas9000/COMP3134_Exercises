@@ -1,0 +1,14 @@
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+12:45:20.592874 IP 159.203.9.56.48554 > 44.195.71.76.80: Flags [S], seq 3034452113, win 64240, options [mss 1460,sackOK,TS val 2057633179 ecr 0,nop,wscale 7], length 0
+12:45:20.612128 IP 44.195.71.76.80 > 159.203.9.56.48554: Flags [S.], seq 3876128523, ack 3034452114, win 26847, options [mss 1460,sackOK,TS val 658788118 ecr 2057633179,nop,wscale 8], length 0
+12:45:20.612187 IP 159.203.9.56.48554 > 44.195.71.76.80: Flags [.], ack 1, win 502, options [nop,nop,TS val 2057633199 ecr 658788118], length 0
+12:45:20.612336 IP 159.203.9.56.48554 > 44.195.71.76.80: Flags [P.], seq 1:175, ack 1, win 502, options [nop,nop,TS val 2057633199 ecr 658788118], length 174: HTTP: POST /post HTTP/1.1
+12:45:20.630429 IP 44.195.71.76.80 > 159.203.9.56.48554: Flags [.], ack 175, win 110, options [nop,nop,TS val 658788137 ecr 2057633199], length 0
+12:45:20.632572 IP 44.195.71.76.80 > 159.203.9.56.48554: Flags [P.], seq 1:231, ack 175, win 110, options [nop,nop,TS val 658788139 ecr 2057633199], length 230: HTTP: HTTP/1.1 200 OK
+12:45:20.632623 IP 159.203.9.56.48554 > 44.195.71.76.80: Flags [.], ack 231, win 501, options [nop,nop,TS val 2057633219 ecr 658788139], length 0
+12:45:20.632673 IP 44.195.71.76.80 > 159.203.9.56.48554: Flags [P.], seq 231:684, ack 175, win 110, options [nop,nop,TS val 658788139 ecr 2057633199], length 453: HTTP
+12:45:20.632683 IP 159.203.9.56.48554 > 44.195.71.76.80: Flags [.], ack 684, win 501, options [nop,nop,TS val 2057633219 ecr 658788139], length 0
+12:45:20.633258 IP 159.203.9.56.48554 > 44.195.71.76.80: Flags [F.], seq 175, ack 684, win 501, options [nop,nop,TS val 2057633220 ecr 658788139], length 0
+12:45:20.651325 IP 44.195.71.76.80 > 159.203.9.56.48554: Flags [F.], seq 684, ack 176, win 110, options [nop,nop,TS val 658788158 ecr 2057633220], length 0
+12:45:20.651387 IP 159.203.9.56.48554 > 44.195.71.76.80: Flags [.], ack 685, win 501, options [nop,nop,TS val 2057633238 ecr 658788158], length 0
