@@ -1,0 +1,11 @@
+
+Pinging 159.203.9.56 with 32 bytes of data:
+Reply from 159.203.9.56: bytes=32 time=5ms TTL=50
+Reply from 159.203.9.56: bytes=32 time=3ms TTL=50
+Reply from 159.203.9.56: bytes=32 time=3ms TTL=50
+Reply from 159.203.9.56: bytes=32 time=3ms TTL=50
+
+Ping statistics for 159.203.9.56:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 5ms, Average = 3ms

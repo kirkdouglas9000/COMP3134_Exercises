@@ -1,0 +1,74 @@
+===== netflix.com =====
+Registrar: MarkMonitor Inc.
+WHOIS Server: whois.markmonitor.com
+Created: 11/11/1997
+Updated: 10/9/2025
+Expires: 11/10/2027
+
+Nameservers:
+ns-81.awsdns-10.com (205.251.192.81)
+ns-1984.awsdns-56.co.uk (205.251.199.192)
+ns-659.awsdns-18.net (205.251.194.147)
+ns-1372.awsdns-43.org (205.251.197.92)
+
+
+===== tesla.com =====
+Registrar: MarkMonitor Inc.
+WHOIS Server: whois.markmonitor.com
+Created: 11/4/1992
+Updated: 10/2/2024
+Expires: 11/3/2026
+
+Nameservers:
+a9-67.akam.net (184.85.248.67)
+a7-66.akam.net (23.61.199.66)
+a28-65.akam.net (95.100.173.65)
+a12-64.akam.net (184.26.160.64)
+a10-67.akam.net (96.7.50.67)
+edns69.ultradns.biz (204.74.67.69)
+edns69.ultradns.com (204.74.66.69)
+edns69.ultradns.net (204.74.110.69)
+edns69.ultradns.org (204.74.111.69)
+a1-12.akam.net (193.108.91.12)
+
+
+===== spotify.com =====
+Registrar: Abion AB
+WHOIS Server: whois.abion.com
+Created: 4/23/2006
+Updated: 7/8/2024
+Expires: 4/23/2030
+
+Nameservers:
+ns-cloud-a1.googledomains.com (216.239.32.106)
+ns-cloud-a2.googledomains.com (216.239.34.106)
+ns-cloud-a3.googledomains.com (216.239.36.106)
+ns-cloud-a4.googledomains.com (216.239.38.106)
+dns1.p07.nsone.net (198.51.44.7)
+
+
+===== samsung.com =====
+Registrar: Whois Corp.
+WHOIS Server: whois.whois.co.kr
+Created: 11/29/1994
+Updated: 10/22/2025
+Expires: 11/28/2026
+
+Nameservers:
+dns-awskr1.samsung.com (52.79.211.80)
+dns-gi1.samsung.com (203.241.132.185)
+dnssm.samsung.com (203.241.132.51)
+dnssm2.samsung.com (112.107.53.58)
+dnsst.samsung.com (203.241.135.51)
+dnsst2.samsung.com (112.106.53.58)
+
+
+===== walmart.com =====
+Registrar: MarkMonitor Inc.
+WHOIS Server: whois.markmonitor.com
+Created: 11/19/1995
+Updated: (whatever is shown)
+Expires: (whatever is shown)
+
+Nameservers:
+(whatever nameservers appear on the WHOIS page)

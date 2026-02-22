@@ -1,0 +1,33 @@
+===== github.com =====
+IP: 140.82.121.4
+City: San Francisco
+Region: California
+Country: United States
+
+
+===== cbc.ca =====
+IP: 23.48.131.110
+City: Haarlem
+Region: Noord-Holland
+Country: Netherlands
+
+
+===== ikea.com =====
+IP: 104.18.13.173
+City: Brick Township
+Region: New Jersey
+Country: United States
+
+
+===== adobe.com =====
+IP: 96.16.53.159
+City: Haarlem
+Region: Noord-Holland
+Country: Netherlands
+
+
+===== disney.com =====
+IP: 130.211.198.204
+City: Council Bluffs
+Region: Iowa
+Country: United States
